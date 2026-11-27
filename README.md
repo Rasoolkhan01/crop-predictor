@@ -48,6 +48,14 @@ Note: This is a front-end demonstration using illustrative profiles. Similarity 
 - Database connectivity
 - Improved crop analytics
 
+## 🌐 Live Website
+
+🚀 **Explore AgriSmart here:**
+
+[Visit AgriSmart Crop Predictor](https://crop.framer.website/)
+
+Built and published using Framer.
+
 ## 👨‍💻 Author
 
 **Rasoolkhan**
